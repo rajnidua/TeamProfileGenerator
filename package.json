@@ -1,0 +1,29 @@
+{
+  "name": "TeamProfileGenerator",
+  "version": "1.0.0",
+  "description": "![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  
+  "dependencies": {
+    "inquirer": "^8.1.2",
+    "jest": "^27.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajnidua/TeamProfileGenerator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajnidua/TeamProfileGenerator/issues"
+  },
+  "homepage": "https://github.com/rajnidua/TeamProfileGenerator#readme"
+}
