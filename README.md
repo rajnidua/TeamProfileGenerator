@@ -43,9 +43,13 @@ THEN I exit the application, and the HTML is generated
 
 
 
+[![Screenshot](./assets/Screenshot_prompts.png)]
+
 [![Screenshot](./assets/Screenshot1.png)]
 
-[![Screenshot](./assets/Screenshot2.png)]
+[![Screenshot](./assets/Screenshot_output.png)]
+
+
 
   ## Installation
   ```md
