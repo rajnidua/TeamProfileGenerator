@@ -43,11 +43,11 @@ THEN I exit the application, and the HTML is generated
 
 
 
-[![Screenshot](./assets/Screenshot_prompts.png)]
+[![User Prompts](./assets/Final-Output.png)]
 
-[![Screenshot](./assets/Screenshot1.png)]
+[![Test Results](./assets/Screenshot1.png)]
 
-[![Screenshot](./assets/Final-Output-Team-Profile.png)]
+[![Rendered File](./assets/Final-Output-Team-Profile.png)]
 
 
 
