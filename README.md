@@ -47,7 +47,7 @@ THEN I exit the application, and the HTML is generated
 
 [![Screenshot](./assets/Screenshot1.png)]
 
-[![Screenshot](./assets/Screenshot_output.png)]
+[![Screenshot](./assets/Final-Output-Team-Profile.png)]
 
 
 
