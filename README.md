@@ -7,6 +7,8 @@
  
   ## Table of contents
   - [Description](#Description)
+  - [Video link](#Video)
+  - [Screenshots](#Screenshot)
   - [Installation](#Installation)
   - [Usage](#Usage)
   - [Testing](#Testing)
@@ -35,19 +37,19 @@ THEN I am prompted to enter the intern’s name, ID, email, and school, and I am
 WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated
 
-## Video Link
+## Video
 
 (https://drive.google.com/file/d/1rBJ4OyWYs5vpYH89-ucRC6-W5_WL8nTN/view?usp=sharing)
 
 
 
+## Screenshot
 
-
-[![User Prompts](./assets/Final-Output.png)]
+[![User Prompts](./assets/Prompts_ScreenShot.png)]
 
 [![Test Results](./assets/Screenshot1.png)]
 
-[![Rendered File](./assets/Final-Output-Team-Profile.png)]
+[![Rendered File](./assets/Output.png)]
 
 
 
